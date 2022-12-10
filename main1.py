@@ -1,6 +1,6 @@
 from util.finetuneTTS import generateTTS_inference_adjust_duration
 
-exp_name = "xthnr2"
+exp_name = "test"
 
 # 格式
 # "文件名": "需要合成的文本"

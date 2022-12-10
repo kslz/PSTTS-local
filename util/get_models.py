@@ -19,7 +19,7 @@ from util.finetuneTTS import load_fs2_model, load_voc_model, get_tts_phone_ids, 
 from paddlespeech.t2s.modules.normalizer import ZScore
 
 exp_base = "./work/exp_"
-exp_name = "xthnr2"
+exp_name = "test"
 exp_path = exp_base + exp_name
 inference_dir = "./inference"
 voc = "PWGan"
