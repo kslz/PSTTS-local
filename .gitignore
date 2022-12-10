@@ -1,0 +1,6 @@
+.idea
+*.wav
+./inference/hifigan_aishell3_static_1.1.0
+./inference/pwgan_aishell3_static_1.1.0
+./inference/wavernn_csmsc_static_0.2.0
+
