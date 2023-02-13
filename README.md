@@ -11,6 +11,7 @@
 ```
 pip install pytest-runner -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install paddlespeech -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements.txt
 ```
 安装其它环境
 
